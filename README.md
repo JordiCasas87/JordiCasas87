@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 I’m a back-end development student with a strong interest in the **Java ecosystem**, object-oriented programming, and building clean, maintainable software.
 
 Currently studying at the **IT Academy in Barcelona**, where I’m reinforcing Java fundamentals, testing practices, algorithms, and team-oriented workflows.
@@ -13,7 +13,7 @@ I also enjoy **working collaboratively**, sharing ideas and learning from others
 
 ---
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 <div align="center">
 
@@ -32,7 +32,7 @@ I also enjoy **working collaboratively**, sharing ideas and learning from others
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 - Java back-end development  
 - Testing with **JUnit 5**  
 - Streams & Collections  
@@ -42,7 +42,7 @@ I also enjoy **working collaboratively**, sharing ideas and learning from others
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 - Strong team-player mindset; I enjoy collaborating and building solutions together  
 - Comfortable taking responsibility and ownership of tasks and outcomes  
 - Experience coordinating small teams and helping others reach shared goals  
@@ -52,14 +52,14 @@ I also enjoy **working collaboratively**, sharing ideas and learning from others
 
 ---
 
-## 📫 Contact
+##  Contact
 
 💻 **Discord** : jcasas87
 
 ---
 
 <div align="center">
-  ⭐ *Thanks for visiting my profile. Always improving.*  
+   *Thanks for visiting my profile. Always improving.*  
 </div>
 
 
