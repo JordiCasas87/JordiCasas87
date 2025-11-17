@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jordi 👋</h1>
+<h1 align="center">Hi, I'm Jordi </h1>
 <h3 align="center">Aspiring Back-End Developer · Java & OOP</h3>
 
 ---
@@ -53,12 +53,13 @@ I also enjoy **working collaboratively**, sharing ideas and learning from others
 ---
 
 ## 📫 Contact
-📧 **jordi.casas87@gmail.com**  
-💻 **https://github.com/JordiCasas87**
+
+💻 **Discord** : jcasas87
 
 ---
 
 <div align="center">
   ⭐ *Thanks for visiting my profile. Always improving.*  
 </div>
+
 
