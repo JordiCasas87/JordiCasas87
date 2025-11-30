@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jordi </h1>
+<h1 align="center">Hi, I'm Jordi Casas! </h1>
 <h3 align="center">Aspiring Back-End Developer · Java & OOP</h3>
 
 ---
