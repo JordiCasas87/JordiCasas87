@@ -128,14 +128,6 @@ Before moving fully into software development, I spent more than seven years wor
 
 ---
 
-### GitHub activity
-
-<p align="center">
-  <a href="https://github.com/JordiCasas87"><img width="100%" src="https://ghchart.rshah.org/40916C/JordiCasas87" alt="Jordi Casas contribution calendar" /></a>
-</p>
-
----
-
 ### Beyond code
 
 I'm especially interested in how systems are structured so they remain maintainable and easy to evolve. I continue developing that perspective through backend projects, architecture studies, and Campus 42 Barcelona.
