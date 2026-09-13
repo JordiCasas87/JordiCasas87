@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Jordi Casas</h1>
-
-<h3 align="center">Back-End Developer · Java & Spring Boot</h3>
+<p align="center">
+  <img src="assets/profile-hero.svg" width="100%" alt="Jordi Casas — Back-End Developer specialized in Java and Spring Boot" />
+</p>
 
 <p align="center">
   I build robust backend applications and maintainable REST APIs,<br>
