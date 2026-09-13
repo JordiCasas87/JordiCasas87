@@ -1,0 +1,45 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="40" y1="20" x2="1160" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#111A22"/>
+      <stop offset="1" stop-color="#13261C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="420" y1="0" x2="790" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DB33F"/>
+      <stop offset="1" stop-color="#46E3B7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 45) rotate(135) scale(380 430)">
+      <stop stop-color="#6DB33F" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#6DB33F" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+
+  <g opacity="0.34" stroke="#6DB33F" stroke-width="2">
+    <path d="M74 78H176L208 110H306"/>
+    <path d="M894 264H1015L1048 231H1130"/>
+    <circle cx="72" cy="78" r="5" fill="#6DB33F"/>
+    <circle cx="307" cy="110" r="5" fill="#6DB33F"/>
+    <circle cx="892" cy="264" r="5" fill="#6DB33F"/>
+    <circle cx="1132" cy="231" r="5" fill="#6DB33F"/>
+  </g>
+
+  <g opacity="0.16" fill="none" stroke="#46E3B7" stroke-width="2">
+    <path d="M1022 84L1070 112V168L1022 196L974 168V112L1022 84Z"/>
+    <path d="M1092 122L1125 141V179L1092 198L1059 179V141L1092 122Z"/>
+    <path d="M152 204L194 228V276L152 300L110 276V228L152 204Z"/>
+  </g>
+
+  <text x="600" y="128" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="600" letter-spacing="5">HELLO, I'M</text>
+  <text x="600" y="194" text-anchor="middle" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="750">Jordi Casas</text>
+  <rect x="440" y="216" width="320" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="600" y="267" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500">Back-End Developer · Java &amp; Spring Boot</text>
+  <text x="600" y="308" text-anchor="middle" fill="#6DB33F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">REST APIs  ·  Clean Architecture  ·  Spring AI</text>
+</svg>
